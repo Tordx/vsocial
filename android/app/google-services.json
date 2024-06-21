@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423929675318",
+    "project_id": "m04d-7e97e",
+    "storage_bucket": "m04d-7e97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423929675318:android:39181126de88d62e2ce297",
+        "android_client_info": {
+          "package_name": "com.vsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423929675318-lqn56l7m18tt3pecqnbeupbhq2q2bmeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNc1uSBMtkoaBI400OFmY73tTfBlxNOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423929675318-lqn56l7m18tt3pecqnbeupbhq2q2bmeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
